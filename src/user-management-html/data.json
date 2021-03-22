@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Dinh Phuc Nguyen",
-    "username": "dpnguyen",
+    "userName": "dpnguyen",
     "email": "dpnguyen@gmail.com",
     "phoneNumber": "1123123213",
     "type": "VIP"
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "name": "Nguyen Tan Thanh",
-    "username": "thanhnguyen",
+    "userName": "thanhnguyen",
     "email": "nguyentanthanh.canduoc@gmail.com",
     "phoneNumber": "0767716884",
     "type": "VIP"
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "name": "Nguyen Van A",
-    "username": "Aka",
+    "userName": "Aka",
     "email": "akachetcha@gmail.com",
     "phoneNumber": "0909126765",
     "type": "VIP"
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "name": "Tran Van Xuong",
-    "username": "hetthoi",
+    "userName": "hetthoi",
     "email": "hetthoimail@gmail.com",
     "phoneNumber": "0937675243",
     "type": "VIP"
@@ -34,7 +34,7 @@
   {
     "id": 5,
     "name": "Le Trong Nhan",
-    "username": "nhancoi",
+    "userName": "nhancoi",
     "email": "nhancoixuong@gmail.com",
     "phoneNumber": "3141515611",
     "type": "VIP"
@@ -42,7 +42,7 @@
   {
     "id": 6,
     "name": "Hai Ba Trung",
-    "username": "2Trung",
+    "userName": "2Trung",
     "email": "Trunng2@gmail.com",
     "phoneNumber": "21415162623",
     "type": "VIP"

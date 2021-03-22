@@ -10,6 +10,7 @@ class Users extends Component {
           key={item.id}
           user={item}
           getDeleteUser={this.props.getDeleteUser}
+          getUpdateUser={this.props.getUpdateUser}
         />
       );
     });
